@@ -10,3 +10,10 @@ display: inline-block;/**/
     justify-content: space-between;/*espaço entre os itens*/
     align-items: center;
  }
+ .container{
+     display: flex;
+     align-items;center;
+ }
+ .container__imagem{
+    padding: 1em;
+ }
